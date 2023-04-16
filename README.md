@@ -1,5 +1,5 @@
 # G.F.G.-Solving-for-India-Hackathon-Astir-Health-
-Astir Health is a User-Friendly Health Tracking Website which allows the user to keep a track of his/her health.
+Astir Health is a User-Friendly Fitness Tracking Website which allows the user to keep a track of his/her health.
    
    
                                     Hardware Requirements
